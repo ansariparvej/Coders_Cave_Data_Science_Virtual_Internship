@@ -12,7 +12,7 @@
 
 - Dataset Link: https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset
 
-- Solution Link: 
+- Solution Link: https://github.com/ansariparvej/Coders_Cave_Data_Science_Virtual_Internship/tree/main/Phase%201%20Projects/Golden%20Task
 
 
 ## Phase_2 Projects:
@@ -25,6 +25,6 @@
 
 - Dataset Link: https://www.kaggle.com/code/shivamburnwal/speech-emotion-recognition/input
 
-- Solution Link:
+- Solution Link: https://github.com/ansariparvej/Coders_Cave_Data_Science_Virtual_Internship/tree/main/Phase%202%20Projects/Golden%20Task
 
 
